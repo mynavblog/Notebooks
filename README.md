@@ -7,8 +7,7 @@ Repository contains the notebooks for Azure Data Studio
 3. Open notebook
 
 ## Disclaimer 
-You should know what you are doing runing the PowerShell commands. The notebooks are only to have all common commands in one place. You are using them at your own risk. Make sure that you can run the **PowerShell** commands on your machine.
-
+You should know what you are doing runing the PowerShell commands. The purpose of the notebooks is only to have all common commands in one place. You are using them at your own risk. Make sure that you can run the **PowerShell** commands on your machine.
 ## Note
 You can modify the notebooks in any way you like. You are welcome to send feedback and if you would like to contribute please create pull request with new commands.
 
